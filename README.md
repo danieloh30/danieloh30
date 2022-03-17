@@ -1,4 +1,4 @@
-![Logo](quarkus_serverless_journey.jpeg)
+![Logo](zerotohero.jpeg)
 
 I'm a Senior Principal Technical Marketing Manager at Red Hat, a well-known public speaker, open source contributor, published author, and developer advocate. I'm more than 20 years of first-hand experience in solving real-world enterprise problems in production environments using cloud-native technologies such as [Quarkus](https://quarkus.io/), [Spring Boot](https://spring.io/projects/spring-boot), [Node.js](https://nodejs.org/), and [Kubernetes](https://kubernetes.io/). 
 

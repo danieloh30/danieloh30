@@ -6,5 +6,5 @@ I'm also responsible for [Java Champion](https://dev.java/community/jcs/), [Clou
 
 Find me here:
 - Youtube: [bit.ly/danielohtv](https://www.youtube.com/channel/UCL0q0BtIDkOhTCMdtwNgLBg)
-- Twitter: [@danieloh30](https://twitter.com/danieloh30)
+- X: [@danieloh30](https://twitter.com/danieloh30)
 - LinkedIn: [daniel-oh-083818112](https://www.linkedin.com/in/daniel-oh-083818112/)
